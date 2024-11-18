@@ -40,11 +40,11 @@ class AppDelegate: NSObject, NSApplicationDelegate, NSUserNotificationCenterDele
     }
     
     @IBAction func openProjectWebsite(_ sender: Any) {
-        openWebsite(url: "https://github.com/simonmeusel/MuteSpotifyAds")
+        openWebsite(url: "https://github.com/mohsenasm/MuteSpotifyAds")
     }
     
     @IBAction func openReportBugWebsite(_ sender: Any) {
-        openWebsite(url: "https://github.com/simonmeusel/MuteSpotifyAds/issues")
+        openWebsite(url: "https://github.com/mohsenasm/MuteSpotifyAds/issues")
     }
     
     @IBAction func openSimonMeuselWebsite(_ sender: Any) {
